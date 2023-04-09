@@ -1,0 +1,121 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "train"
+  },
+  "fdsf": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading1",
+        "content": {
+          "text": "Weather"
+        }
+      }
+    ]
+  },
+  "subtitle": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Adipisicing nulla reprehenderit sit et dolore velit eiusmod cillum proident Lorem. Ad et sit ullamco proident ea commodo laboris exercitation pariatur anim ipsum excepteur cupidatat nisi. Ex reprehenderit occaecat do cupidatat eiusmod esse nulla do veniam."
+        }
+      }
+    ]
+  },
+  "link_action": {
+    "__TYPE__": "LinkContent",
+    "value": {
+      "__TYPE__": "ExternalLink",
+      "url": "https://slicemachine.dev"
+    }
+  },
+  "mobile": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "heading2",
+        "content": {
+          "text": "Balance"
+        }
+      }
+    ]
+  },
+  "mobile_content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Consectetur eiusmod eu consequat ex officia amet cillum consequat."
+        }
+      }
+    ]
+  },
+  "mobile_banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9",
+      "width": 4752,
+      "height": 3168
+    },
+    "url": "https://images.unsplash.com/photo-1589652717521-10c0d092dea9",
+    "width": 4752,
+    "height": 3168,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  },
+  "title_web": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Exercitation consequat in ex amet laboris officia reprehenderit laborum non exercitation reprehenderit cupidatat."
+        }
+      }
+    ]
+  },
+  "web_content": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Labore consectetur cupidatat mollit Lorem sunt magna esse sunt commodo. Voluptate nulla labore minim aute proident ut enim deserunt esse irure."
+        }
+      }
+    ]
+  },
+  "web_banner": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1593642633279-1796119d5482",
+      "width": 4016,
+      "height": 6016
+    },
+    "url": "https://images.unsplash.com/photo-1593642633279-1796119d5482",
+    "width": 4016,
+    "height": 6016,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  }
+}
